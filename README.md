@@ -1,8 +1,5 @@
 ### Another guy who write and love code. 👋
 
-<!--
-**joaovictorsarti/joaovictorsarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is João Victor Sarti (brazil). Currently Computer Science undergraduate student at Pontifícia Universidade Católica of Minas Gerais (PUC Minas) 
 Here are some ideas to get you started:
 
