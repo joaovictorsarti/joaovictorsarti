@@ -5,3 +5,5 @@ I am passionate about development, but I also like to create useless things :joy
 
 I am currently a beginner programmer, but I intend to contribute to projects and also to the open-source community in the future to later enter my career as a developer, for that I need to study hard and practice and that is why I am here.
 
+![Alt Text](https://media.giphy.com/media/52qtwCtj9OLTi/giphy.gif)
+
