@@ -7,5 +7,4 @@ I intend to contribute to projects and also to the open-source community in the 
 
 Also, I'm always studying how to automate with python and in my spare time find vulnerabilities in applications (Hackerone/Bugcrowd).
 
-   ![Alt Text](https://media.giphy.com/media/52qtwCtj9OLTi/giphy.gif)
 
