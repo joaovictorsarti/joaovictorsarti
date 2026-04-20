@@ -1,11 +1,11 @@
 ### Another guy who write and love code. :octocat:
 
-My name is João Victor Sarti (:brazil:). Computer Science undergraduate student at Pontifícia Universidade Católica of Minas Gerais (PUC-MG).
-I am passionate about development, but I also like to create useless things. 
+I am a highly motivated DevOps Engineer with 7 years of hands-on experience,
+dedicated to driving operational efficiency and enhancing collaboration between
+development and operations teams. With a solid foundation in automation, container
+orchestration, and CI/CD practices. I continually seek to improve software delivery,
+reduce implementation time, and strengthen system reliability.
 
-Also, I'm always studying how to automate with python and in my spare time find vulnerabilities in applications (Hackerone/Bugcrowd).
-
-- 🌱 I’m currently learning **Python** and **Terraform**
 - ⚡ Fun fact **I love security stuff** (Vulnerabilities, bug bounty)
 
 <h3 align="left">Languages and Tools:</h3>
